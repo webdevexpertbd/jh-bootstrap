@@ -5,10 +5,29 @@
     border-radius: 5px;
 }
 
-img {
-    width: 70%;
-}
-
 .price {
     color: rgb(185, 95, 10);
+}
+
+.category1 {
+    background-image: linear-gradient(to right, orange, rgba(255, 166, 0, 0.603));
+    padding: 50px 40px;
+    border-radius: 5px;
+}
+
+.category1 h2 {
+    width: 50%;
+    display: inline;
+}
+.category1 img {
+    width: 50%;
+    margin-left: 50px;
+}
+
+.category2 {
+    background-image: linear-gradient(to right, orange, rgba(255, 166, 0, 0.603));
+}
+
+.category3 {
+    background-image: linear-gradient(to right, orange, rgba(255, 166, 0, 0.603));
 }
