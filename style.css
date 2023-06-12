@@ -1,0 +1,14 @@
+.carousel {
+    background-color: #fceae8;
+    padding: 50px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+img {
+    width: 70%;
+}
+
+.price {
+    color: rgb(185, 95, 10);
+}
